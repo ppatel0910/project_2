@@ -2,6 +2,7 @@
 
 ## We created a logistic regression model to predict the success of a song based on various metrics, such as danceability, liveliness, energy, etc. A song was considered a success if it received more than the average streams, which we calculated from our dataset. A success was denoted with a "1", otherwise it received a "0". This metric was saved into a new column "song_success". 
 
+![classification_report_for_logistic_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/logisticregression.png)
 
 ## For the random forest classifier model, we used the cleaned data from the Logistic Regression model to fit the model. The same initial features were used, and we were able to build a successful model with a 92% accuracy rate. We were able to evaluate the importance of each feature in "X", and found that the most relevant factor in determing song success was the in_spotify_playlists data. 
 
