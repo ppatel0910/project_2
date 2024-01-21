@@ -10,7 +10,7 @@
 
 ![feature_importance_breakdown](https://github.com/ppatel0910/project_2/blob/main/visuals/randomtree.png)
 
-## Linear Regression description here
+## With the Linear Regression model we wanted to predict how the streams of songs on the Spotify platform would perform determining how old the particular song is compared to a more recent song.  Thus getting the average number of streams on the Spotify platform will provide us some of the story of how we can determine the most popular songs in a particular year will perform due to the stream count.
 ![line_graph_for_linear_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/Screenshot%202024-01-20%20155528.png)
 
 ![scatter_plot_for_linear_regression_model_based_on_stream#_and_the_year](https://github.com/ppatel0910/project_2/blob/main/visuals/linearregressionscatter.png)
