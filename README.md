@@ -6,7 +6,7 @@
 
 ![classification_report_for_logistic_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/logisticregression%20classification%20report.png)
 
-### To improve on the models accuracy, we included more features in the model. By adding additional features, the models accuracy increased to INSERT PERCENTAGE HERE. The classification report for the second model is below. 
+### To improve on the models accuracy, we included more features in the model. By adding additional features, the models accuracy increased to 85%. The classification report for the second model is below. 
 
 ![classification_report_for_logistic_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/secondclassficationreport.png)
 
