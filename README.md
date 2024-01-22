@@ -8,7 +8,7 @@
 
 ### To improve on the models accuracy, we included more features in the model. By adding additional features, the models accuracy increased to INSERT PERCENTAGE HERE. The classification report for the second model is below. 
 
-![classification_report_for_logistic_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/logisticregression.png)
+![classification_report_for_logistic_regression_model](https://github.com/ppatel0910/project_2/blob/main/visuals/secondclassficationreport.png)
 
 ## For the random forest classifier model, we used the cleaned data from the Logistic Regression model to fit the model. The same initial features were used, and we were able to build a successful model with a 92% accuracy rate. We were able to evaluate the importance of each feature in "X", and found that the most relevant factor in determing song success was the in_spotify_playlists data. 
 
